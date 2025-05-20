@@ -8,7 +8,7 @@ Meu objetivo é evoluir constantemente e, com esforço e dedicação, me tornar 
 
 - 👷🏽‍♂️🏗️ Atualmente, trabalho em um terminal de contêineres como Assistente de Gate, sendo responsável pelo lançamento das estimativas no sistema iMars, do armador CMA/CGM;
 
-### - 💻 Estudante de Front-End.
+### - 💻 Estudante de Programação.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> &nbsp;
